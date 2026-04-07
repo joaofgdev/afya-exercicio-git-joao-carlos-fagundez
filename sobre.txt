@@ -1,0 +1,6 @@
+João Carlos 
+
+idade: 20
+
+curso: ADS
+Meta da Disciplina : Aprender mais a fundo sobre docker
